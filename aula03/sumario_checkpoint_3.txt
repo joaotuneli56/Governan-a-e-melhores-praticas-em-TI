@@ -1,0 +1,51 @@
+
+
+**Título:**
+Gestão de Serviços de TI: Uma Análise da Metodologia ITIL
+
+**1. Introdução:**
+1.1 Contextualização
+   - Apresentação da importância da gestão de serviços de TI na atualidade.
+
+1.2 Problemática
+   - Discussão sobre os desafios comuns na gestão de serviços de TI e a necessidade de boas práticas.
+
+1.3 Objetivos
+   - Objetivo geral: Analisar a metodologia ITIL como uma abordagem eficaz para a gestão de serviços de TI.
+   - Objetivos específicos: Explorar os princípios da ITIL, destacar suas vantagens e desafios, e analisar casos práticos de implementação.
+
+**2. Fundamentação Teórica:**
+2.1 Evolução da Gestão de Serviços de TI
+   - Breve histórico sobre a evolução da gestão de serviços de TI até a necessidade de frameworks como a ITIL.
+
+2.2 Princípios e Componentes da ITIL
+   - Descrição detalhada dos princípios, processos, funções e papéis dentro da estrutura da ITIL.
+
+**3. Metodologia de Pesquisa:**
+3.1 Tipo de Pesquisa
+   - Explique se será uma pesquisa bibliográfica, estudo de caso, pesquisa experimental, entre outros.
+
+3.2 Coleta de Dados
+   - Detalhe como foram coletadas as informações, seja por revisão bibliográfica, entrevistas, análise de casos, etc.
+
+**4. Resultados e Discussão:**
+4.1 Vantagens da ITIL
+   - Apresente os benefícios observados na aplicação da ITIL na gestão de serviços de TI.
+
+4.2 Desafios e Considerações Críticas
+   - Destaque possíveis desafios enfrentados ao implementar a ITIL e considere críticas ou limitações conhecidas.
+
+4.3 Estudo de Caso (se aplicável)
+   - Se houver estudo de caso, apresente detalhes, resultados e insights obtidos.
+
+**5. Considerações Finais:**
+   - Resumo dos principais pontos discutidos.
+   - Sugestões para futuras pesquisas ou melhorias na implementação da ITIL.
+
+**Referências:**
+   - Listagem completa de todas as fontes citadas no trabalho.
+
+**Apêndices e Anexos:**
+   - Inclua materiais adicionais relevantes, como questionários utilizados, gráficos, tabelas, etc.
+
+Certifique-se de seguir as normas da ABNT para formatação, citações e referências ao longo do trabalho. Essa estrutura é uma base e pode ser expandida conforme a profundidade e complexidade do seu trabalho.
